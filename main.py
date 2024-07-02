@@ -18,3 +18,19 @@ def parse_arguments():
 if __name__ == "__main__":
     input_file, output_file = parse_arguments()
     print(f"Converting {input_file} to {output_file}")
+
+import json
+
+def load_json(file_path):
+    try:
+        with open(file_path, 'r') as file:
+            data = json.load(file)
+            print("JSON data loaded successfully.")
+            return data
+    except json.JSONDecodeError:
+        print("Error: Invalid JSON format.")
+        sys.exit(1)
+
+if __name__ == "__main__":
+    input_file, output_file = parse_arguments()
+    data = load_json(input_file)
