@@ -1,0 +1,46 @@
+<Firma>
+  <FirmaElement>
+    <Nazwa>Tech Solutions</Nazwa>
+    <Adres>
+      <Ulica>Warszawska 10</Ulica>
+      <Miasto>Warszawa</Miasto>
+      <KodPocztowy>00-001</KodPocztowy>
+    </Adres>
+    <Pracownicy>
+      <Pracownik>
+        <Imie>Jan</Imie>
+        <Nazwisko>Kowalski</Nazwisko>
+        <Stanowisko>Programista</Stanowisko>
+        <Wiek>30</Wiek>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Anna</Imie>
+        <Nazwisko>Nowak</Nazwisko>
+        <Stanowisko>Projektant</Stanowisko>
+        <Wiek>28</Wiek>
+      </Pracownik>
+    </Pracownicy>
+  </FirmaElement>
+  <FirmaElement>
+    <Nazwa>Creative Agency</Nazwa>
+    <Adres>
+      <Ulica>Krakowska 15</Ulica>
+      <Miasto>Kraków</Miasto>
+      <KodPocztowy>30-002</KodPocztowy>
+    </Adres>
+    <Pracownicy>
+      <Pracownik>
+        <Imie>Piotr</Imie>
+        <Nazwisko>Wiśniewski</Nazwisko>
+        <Stanowisko>Menadżer</Stanowisko>
+        <Wiek>35</Wiek>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Ewa</Imie>
+        <Nazwisko>Zielińska</Nazwisko>
+        <Stanowisko>Księgowa</Stanowisko>
+        <Wiek>40</Wiek>
+      </Pracownik>
+    </Pracownicy>
+  </FirmaElement>
+</Firma>

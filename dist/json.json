@@ -1,0 +1,48 @@
+{
+  "Firma": [
+    {
+      "Nazwa": "Tech Solutions",
+      "Adres": {
+        "Ulica": "Warszawska 10",
+        "Miasto": "Warszawa",
+        "KodPocztowy": "00-001"
+      },
+      "Pracownicy": [
+        {
+          "Imie": "Jan",
+          "Nazwisko": "Kowalski",
+          "Stanowisko": "Programista",
+          "Wiek": 30
+        },
+        {
+          "Imie": "Anna",
+          "Nazwisko": "Nowak",
+          "Stanowisko": "Projektant",
+          "Wiek": 28
+        }
+      ]
+    },
+    {
+      "Nazwa": "Creative Agency",
+      "Adres": {
+        "Ulica": "Krakowska 15",
+        "Miasto": "Kraków",
+        "KodPocztowy": "30-002"
+      },
+      "Pracownicy": [
+        {
+          "Imie": "Piotr",
+          "Nazwisko": "Wiśniewski",
+          "Stanowisko": "Menadżer",
+          "Wiek": 35
+        },
+        {
+          "Imie": "Ewa",
+          "Nazwisko": "Zielińska",
+          "Stanowisko": "Księgowa",
+          "Wiek": 40
+        }
+      ]
+    }
+  ]
+}
